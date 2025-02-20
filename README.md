@@ -41,13 +41,11 @@ Innovative software engineer with a robust foundation in programming and adept p
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shreeshasn1999&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshasn1999&hide_border=true&layout=compact" align="left" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shreeshasn1999&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeshasn1999&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
 
